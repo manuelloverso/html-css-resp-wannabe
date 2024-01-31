@@ -129,6 +129,11 @@ img {
  ************************************************/
 
 /* #region MEDIA QUERIES */
+@media screen and (max-width: 1160px) {
+  .container {
+    width: 100%;
+  }
+}
 
 /* TABLET MQ */
 @media screen and (max-width: 768px) {
